@@ -85,8 +85,97 @@ cd projeto-cordel
 <p></p>Sempre aprendendo e desenvolvendo projetos reais.
 Com este site, busco compartilhar e valorizar a beleza e relevância da literatura de cordel — uma forma de arte popular, com raízes profundas na cultura brasileira. Também demonstro minha habilidade de transformar conhecimento cultural em um projeto web bem estruturado e apresentável.</p>
 <br>
-<br>
 
 🔗 Visualize o Projeto
 
 https://joao-robertoo.github.io/projeto-cordel/
+<br>
+<br>
+<br>
+<hr>
+
+
+# 🇬🇧 English Version
+<br>
+
+<h1>📖 Project: Cordel Literature</h1>
+<img src="https://github.com/joao-robertoo/projeto-cordel/blob/main/projeto-cordel.png?raw=true"/>
+<br>
+
+<h2>👋 About the Project</h2>
+
+This website presents, in a simple and visual way, the beauty of Cordel Literature, highlighting its origin, history, characteristics, and importance in Brazilian culture.
+
+The goal of this project was to build a clean, lightweight, and responsive informational page, while practicing HTML, CSS, and visual layout organization.
+<br>
+<br>
+
+<h2>🎨 Project Content</h2>
+
+Clear explanation of what Cordel Literature is
+
+Short historical overview and cultural context
+
+Main characteristics: rhymed verses, woodcut-style illustrations, popular storytelling
+
+Organized sections for smooth reading
+
+Simple and intuitive visual design
+<br>
+<br>
+
+<h2>🧰 Technologies Used</h2>
+
+HTML5 — Structured and semantic markup
+
+CSS3 — Clean and responsive styling
+
+Google Fonts — Modern and readable typography
+
+Responsive layout — Optimized for mobile, tablet, and desktop
+<br>
+<br>
+
+<h2>📱 Responsiveness</h2>
+
+The website offers a smooth experience on:
+
+💻 Desktops
+
+📱 Smartphones
+
+📟 Tablets
+<br>
+<br>
+
+<h2>🎯 Project Goal</h2>
+
+With this project, I practiced:
+
+Building informational pages
+
+Organizing textual content
+
+Responsive CSS layout
+
+Clean design focused on content
+It is also a tribute to an important part of Brazilian cultural heritage.
+<br>
+<br>
+
+<h2>🚀 Live Demo</h2>
+
+🔗 Access the project online:
+https://joao-robertoo.github.io/projeto-cordel/
+
+📂 Running Locally
+git clone https://github.com/joao-robertoo/projeto-cordel.git
+cd projeto-cordel
+<br>
+<br>
+
+🙋‍♂️ Author
+
+<strong>João Roberto</strong>
+<p>Front-End Developer in progress | HTML • CSS • JavaScript</p>
+Always learning and building real-world projects.
