@@ -95,7 +95,7 @@ https://joao-robertoo.github.io/projeto-cordel/
 <hr>
 
 
-# 🇬🇧 English Version
+# us English Version
 <br>
 
 <h1>📖 Project: Cordel Literature</h1>
